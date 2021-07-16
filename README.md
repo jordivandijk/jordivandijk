@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordivandijk
 - 👀 I’m interested in .Net, Docker and k8s 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning coding on microcontrollers
 - 💞️ I’m looking to collaborate on some chess bots
 - 📫 How to reach me: twitter @jorfriendlydeb
 
